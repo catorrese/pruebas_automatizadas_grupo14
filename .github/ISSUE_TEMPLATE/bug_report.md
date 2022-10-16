@@ -22,7 +22,7 @@ Texto
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| App version | 4.41.1      |
+| App version | 3.41.1      |
 | Os          | Pop!_OS 22.04 LTS  | 
 | Browser     | Mozilla Firefox 105.0.1 |
 
